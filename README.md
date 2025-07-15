@@ -19,25 +19,7 @@ JDBC Driver (MySQL Connector): Connects Java applications to MySQL databases.
 JCalendar: Provides Date-related components for user-friendly date selection.
 XChart: Generates interactive charts for visualizing financial data.
 AbsoluteLayout: Facilitates precise positioning of UI components.
-# Project Structure
-📦src
-┣ 📂Chart
-┃ ┗ 📜IncomeExpenseChart.java
-┣ 📂Database
-┃ ┣ 📜DatabaseManager.java
-┃ ┗ 📜UserSession.java
-┣ 📂Home
-┃ ┣ 📜HomePage.form
-┃ ┗ 📜HomePage.java
-┣ 📂Icon
-┃ ┗ 📜icons.png...
-┣ 📂Login
-┃ ┣ 📜Login.form
-┃ ┣ 📜Login.java
-┃ ┣ 📜SignUp.form
-┃ ┗ 📜SignUp.java
-┗ 📂personalfinancemanagement
-┗ 📜PersonalFinanceManagement.java
+
 # Screenshots
 # Login
 
@@ -45,26 +27,26 @@ AbsoluteLayout: Facilitates precise positioning of UI components.
 
 
 
-Signup
+# Signup
 
 <img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/3fd1e7a7-5008-4102-89b8-603d61b09265" />
 
 
-Home
+# Home
 <img width="1034" height="651" alt="image" src="https://github.com/user-attachments/assets/29ef4c7e-3a56-4257-8ad6-a3801f7121d0" />
 
-Accounts
+# Accounts
 <img width="1036" height="652" alt="image" src="https://github.com/user-attachments/assets/ba46d21d-daeb-4855-884f-f7492d869e66" />
 
 
-Income
+# Income
 <img width="1039" height="649" alt="image" src="https://github.com/user-attachments/assets/98f833bc-ec19-4853-a911-ccd1fa23b625" />
 
-Expense
+# Expense
 <img width="1037" height="650" alt="image" src="https://github.com/user-attachments/assets/7f9eb4c0-5c48-41f8-b6cb-50be47e83cbe" />
 
 
-Budget
+# Budget
 <img width="1038" height="655" alt="image" src="https://github.com/user-attachments/assets/1a15b59f-6ae0-46ff-826f-a2e0790009e8" />
 
 
